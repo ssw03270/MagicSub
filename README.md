@@ -62,7 +62,7 @@ After installation, you can run MagicSub from the desktop or start menu.
 
 ### Input
 - `.mp4`, `.mkv`, `.mov`, `.avi`
-- `.wav`, `.mp3`, `.m4a`
+- `.wav`, `.mp3`, `.m4a`, `.aac`
 
 ### Output
 - `.srt` – Standard subtitle
